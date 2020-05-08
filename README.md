@@ -1,7 +1,8 @@
 # Android-application-instrumentation
-This repository contains instrumented Android applications along with source code and .ec files.
+This repository contains instrumented Android applications along with source code and .ec files. The instrumentation is performed using JaCoCo plugin which produces .ec files which can be used to generate code coverage by using jacoco jar.
+
 
 It contains following items:
-### Documentation on how to instrument the applications.
-### Set up tools needed
-### Uninstrumented and instrumented context-sensitive Android applications.
+### Documentation on how to instrument Android applications.
+### Set up tools needed to instrument any Android application.
+### Uninstrumented and instrumented source code for context-sensitive Android applications along with .ec file.
