@@ -77,7 +77,7 @@ private void requestWritePermission(){
 ## Test the APK
 
 Install the APK on an emulator and perform some actions. This will create a coverage file with extension ec inside /mnt/sdcard/<package-name>/coverage.ec
-which can be pulled using command  'adb pull <source_path> (/mnt/sdcard/<package-name>/coverage.ec) <destination_path> (app/build/output/<package-name>/coverage.ec) '
+which can be pulled using command  'adb pull <source_path> (/mnt/sdcard/<project-package-name>/coverage.ec) <destination_path> (app/build/output/<project-package-name>/coverage.ec) '
 Make sure that the file size is non zero.
 
 Multiple ec files can be created using this process and the Android jar can help in obtaining code coverage report. 
