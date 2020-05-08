@@ -9,12 +9,12 @@ before you get started:
 
 ## Usage
 #### 1. Configure build.gradle (app) to add plugin
-'''
+```
 apply plugin: 'jacoco'
 jacoco {
     toolVersion = "0.8.5"
 }
-'''
+```
 #### 2. Inside buildTypes enable the code coverage
 '''
 builType{
