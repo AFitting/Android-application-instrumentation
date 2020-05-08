@@ -4,4 +4,4 @@ This repository contains instrumented Android applications along with source cod
 It contains following items:
 ### Documentation on how to instrument the applications.
 ### Set up tools needed
-# Uninstrumented and instrumented context-sensitive Android applications.
+### Uninstrumented and instrumented context-sensitive Android applications.
