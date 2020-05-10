@@ -70,7 +70,7 @@ private void requestWritePermission(){
 ```
 #### 5. Add write permission to AndroidManifest.xml file
 
-' <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> '
+``` <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> ```
 
 ### Build the project after finishing these steps and generate the instrumented APK file.
 
