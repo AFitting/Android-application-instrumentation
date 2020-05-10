@@ -6,6 +6,11 @@
 | https://f-droid.org/en/packages/com.ilm.sandwich/ |
 | https://f-droid.org/en/packages/com.a5corp.weather/ |
 | https://f-droid.org/en/packages/sun.bob.leela/ |
+| https://f-droid.org/en/packages/cl.coders.faketraveler |
+| https://f-droid.org/en/packages/org.secuso.privacyfriendlynetmonitor/ |
+| https://f-droid.org/en/packages/com.example.trigger |
+| https://f-droid.org/en/packages/me.blog.korn123.easydiary/ |
+| https://f-droid.org/en/packages/com.vrem.wifianalyzer/ |
 
 
 | Generic applications: | Status | Assigned to | Comments |
