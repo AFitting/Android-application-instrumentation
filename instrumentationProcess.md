@@ -16,7 +16,7 @@ jacoco {
 }
 ```
 #### 2. Inside buildTypes enable the code coverage
-'''
+```
 builType{
 
    debug{ 
@@ -24,13 +24,13 @@ builType{
      testCoverageEnabled true
 
 }}
-'''
+```
 #### 3. Add class path to build.gradle (project) and make sure to use the same version as app build.gradle
-'''
+```
 classpath "org.jacoco:org.jacoco.core:0.8.5" 
-'''
+```
 #### 4.1 Add a onStop() function to MainActivity.java
-'''
+```
 @Override
 
 protected void onStop()
@@ -50,24 +50,24 @@ protected void onStop()
     catch (Exception e) {}
   }
  }
- '''
+```
 #### 4.2 Add this inside onCreate() function:
-'''
+```
 if(ContextCompat.checkSelfPermission(MainActivity.this,
         Manifest.permission.READ_EXTERNAL_STORAGE) == PackageManager.PERMISSION_GRANTED){
     // Toast.makeText(MainActivity.this,"Read Granted");
 } else{
     requestWritePermission();
 }
-'''
+```
 #### 4.3 Add write permission outside onCreate() function:
-'''
+```
 private void requestWritePermission(){
 
     ActivityCompat.requestPermissions(this, new String[] {Manifest.permission.WRITE_EXTERNAL_STORAGE}, WRITE_STORAGE_PERMISSION_CODE);
 
 }
-'''
+```
 #### 5. Add write permission to AndroidManifest.xml file
 
 ' <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> '
