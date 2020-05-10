@@ -6,7 +6,7 @@
 | https://f-droid.org/en/packages/com.ilm.sandwich/ |
 
 
-
-Generic applications:
-https://f-droid.org/en/packages/com.notriddle.budget/
-https://f-droid.org/en/packages/de.freewarepoint.whohasmystuff/
+| Generic applications: | Status | Assigned to | Comments |
+| --------------------------------| ------ | ----------- | -------- |
+| https://f-droid.org/en/packages/com.notriddle.budget/ |
+| https://f-droid.org/en/packages/de.freewarepoint.whohasmystuff/ |
