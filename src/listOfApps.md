@@ -10,3 +10,6 @@
 | --------------------------------| ------ | ----------- | -------- |
 | https://f-droid.org/en/packages/com.notriddle.budget/ |
 | https://f-droid.org/en/packages/de.freewarepoint.whohasmystuff/ |
+| https://f-droid.org/en/packages/org.tomdroid/ |
+| https://f-droid.org/en/packages/sun.bob.leela/ |
+| https://f-droid.org/en/packages/com.mattallen.loaned/ |
