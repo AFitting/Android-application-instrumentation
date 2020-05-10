@@ -3,7 +3,7 @@ This repository contains instrumented Android applications along with source cod
 
 
 It contains following items:
-### [Documentation on how to instrument Android applications](instrumentationProcess.md)
-### Set up tools needed to instrument any Android application.
-### Uninstrumented and instrumented source code for context-sensitive Android applications along with .ec file.
-### How to use jar to produce a report.
+### [Documentation on how to instrument Android applications.](instrumentationProcess.md)
+### [Set up tools needed to instrument any Android application.](toolSetup)
+### [Uninstrumented and instrumented source code for context-sensitive Android applications along with .ec file.](src)
+### [How to use jar to produce a report.](generateReport)
