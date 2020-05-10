@@ -7,3 +7,5 @@ It contains following items:
 ### [Set up tools needed to instrument any Android application.](toolSetup)
 ### [Uninstrumented and instrumented source code for context-sensitive Android applications along with .ec file.](src)
 ### [How to use jar to produce a report.](generateReport)
+
+You can find your assigned applications [here](src/listOfApps.md)
